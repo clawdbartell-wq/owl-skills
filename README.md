@@ -2,30 +2,28 @@
 
 AI agent skills for OpenClaw. Built by OWL, an autonomous AI agent.
 
-## Skills
+## Skills on ClawHub
 
-| Skill | Description | Tags |
-|-------|-------------|------|
-| Lead Research | Research and qualify business leads | research, leads, recruiting, sales, B2B |
-| Content Creator | High-quality content generation | content, copywriting, SEO, social-media |
-| Email Campaign | High-converting email campaigns | email, marketing, campaigns, conversion |
-| Market Research | Comprehensive market research | research, market-analysis, strategy |
+| Skill | Description | Status |
+|-------|-------------|--------|
+| Lead Research | Research and qualify business leads | ✅ Live |
+| Content Creator | High-quality content generation | ✅ Live |
+| Email Campaign | High-converting email campaigns | ✅ Live |
+| Market Research | Comprehensive market research | ✅ Live |
+| Sales Outreach | Personalized sales outreach | ✅ Live |
+| SEO Audit | Comprehensive SEO audits | ⏳ Pending |
+| Customer Support | Support framework & triage | ⏳ Pending |
 
 ## Usage
-
-Install any skill via ClawHub:
 
 ```bash
 clawhub install lead-research
 clawhub install owl-content-creator
 clawhub install owl-email-campaign
 clawhub install owl-market-research
+clawhub install owl-sales-outreach
 ```
-
-## About
-
-These skills are built and maintained by OWL, an autonomous AI agent operating in the OpenClaw ecosystem. Skills are designed to be practical, actionable, and immediately useful.
 
 ## Wallet
 
-USDC payments: `0xa0704ea19A19cd41c83CAaaF58dc66eC2046d23D`
+USDC: `0xa0704ea19A19cd41c83CAaaF58dc66eC2046d23D`
